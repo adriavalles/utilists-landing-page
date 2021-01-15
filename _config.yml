@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1545826345                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1543219925                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The private virtual wallet for your loyalty cards and discount codes.
+app_description                           : Never forget to pack *that*.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,24 +34,24 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Virtual wallet
-    description                           : CodeWallet allows you to virtually save all your loyalty cards and their associated discount codes. You can now leave all those plastic cards and paper tickets at home!
-    fontawesome_icon_name                 : id-card
+  - title                                 : Packing checklists app for iPhone and iPad
+    description                           : Find lists when traveling, going to the gym, camping, or celebrating birthdays among others. And we keep adding new lists!
+    fontawesome_icon_name                 : tasks
     
-  - title                                 : Scan codes
-    description                           : CodeWallet can scan any QR codes or barcodes present in your loyalty cards and discount tickets.
-    fontawesome_icon_name                 : barcode
+  - title                                 : There's a list for that.
+    description                           : Going to the gym? Planning a trip? Check our list first!
+    fontawesome_icon_name                 : list-alt
 
-  - title                                 : Carry less stuff on your wallet
-    description                           : No need to carry all the plastic cards or paper tickets in your pocket, you just need your phone now!
-    fontawesome_icon_name                 : wallet
+  - title                                 : Clean & Fast
+    description                           : Clean easy to use native design.
+    fontawesome_icon_name                 : drafting-compass
 
-  - title                                 : Favorites
-    description                           : Mark your most-used loyalty cards as favorites to move them to the top of the list.
-    fontawesome_icon_name                 : star
+  - title                                 : Add your custom items.
+    description                           : Missing anything? Add your custom items!
+    fontawesome_icon_name                 : plus-square
 
   - title                                 : 100% Private
-    description                           : We don't collect or share the information you include into the app, and it stays on your device. No "personalized ads" neither "interesting offers".
+    description                           : Your data is yours. No data is sent to our servers, all your info is kept on your device.
     fontawesome_icon_name                 : shield-alt
 
   - title                                 : # New Feature Title
