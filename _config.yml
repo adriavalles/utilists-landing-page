@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Packing checklists app for iPhone and iPad
+  - title                                 : Packing checklists
     description                           : Find lists when traveling, going to the gym, camping, or celebrating birthdays among others. And we keep adding new lists!
     fontawesome_icon_name                 : tasks
     
@@ -42,9 +42,9 @@ features                                  :
     description                           : Going to the gym? Planning a trip? Check our list first!
     fontawesome_icon_name                 : list-alt
 
-  - title                                 : Clean & Fast
-    description                           : Clean easy to use native design.
-    fontawesome_icon_name                 : drafting-compass
+  - title                                 : Clean & Fast design for iPhone AND iPad
+    description                           : Clean easy to use native design, for iPhone and iPad. Dark-mode supported.
+    fontawesome_icon_name                 : tablet-alt
 
   - title                                 : Add your custom items.
     description                           : Missing anything? Add your custom items!

@@ -9,7 +9,7 @@ include_in_header: true
 
 # Privacy Policy
 
-This privacy notice discloses the privacy practices for the CodeWallet app. This privacy notice applies solely to information collected by this app. It will notify you of the following:
+This privacy notice discloses the privacy practices for the Utilists app. This privacy notice applies solely to information collected by this app. It will notify you of the following:
 
 1. What personally identifiable information is collected from you through the app, how it is used and with whom it may be shared.
 2. What choices are available to you regarding the use of your data.
